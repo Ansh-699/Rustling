@@ -1,6 +1,6 @@
 
-### Image 1
+### Progress
 ![Image 1](public/image.png)
 
-### Image 2
+### Compledt Till
 ![Image 2](public/image2.png)
