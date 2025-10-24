@@ -2,5 +2,5 @@
 ### Progress
 ![Image 1](public/image.png)
 
-### Compledt Till
+### Completed Till
 ![Image 2](public/image2.png)
